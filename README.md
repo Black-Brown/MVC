@@ -119,14 +119,16 @@ Abre tu navegador y visita: `http://localhost:8000`
 ### Formulario de registro
 ![Registro](https://github.com/user-attachments/assets/c472c3a4-b900-4505-b56c-2511b12c2ffd)
 
+### Confirmación de creacion
+![Eliminación](https://github.com/user-attachments/assets/72085200-13bd-4a19-a429-6055acc27368)
+
 ### Formulario de edición
 ![Edición](https://github.com/user-attachments/assets/acbac221-024d-4da0-8e4b-dcb9155e1800)
 
 ### Confirmación de eliminación
-![Eliminación](https://github.com/user-attachments/assets/72085200-13bd-4a19-a429-6055acc27368)
+<img width="1911" height="847" alt="image" src="https://github.com/user-attachments/assets/eca08ac3-7613-4fcc-b20b-7c657c467141" />
 
-- Comunidad PHP por la documentación y recursos
-- Contribuidores del proyecto
+
 
 ---
 
