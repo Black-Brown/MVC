@@ -12,7 +12,7 @@ class database {
         if ($this->conn->connect_error) {
             die("Connection failed: " . $this->conn->connect_error);
         } else {
-            echo "Connected successfully";
+            echo "<script>console.log('Connected successfully');</script>";
         }
     }
 
