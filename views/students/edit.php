@@ -55,6 +55,6 @@ if (isset($_GET['id'])) {
             <input type="date" class="form-control" id="fecha_inscripcion" name="fecha_inscripcion" value="<?php echo $student['fecha_inscripcion']; ?>" required>
         </div>
         <button type="submit" class="btn btn-primary">Actualizar</button>
-        <a href="index.php" class="btn btn-secondary">Cancelar</a>
+        <a href="/views/students/index.php" class="btn btn-secondary">Cancelar</a>
     </form>
 </div>
