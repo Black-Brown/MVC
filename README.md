@@ -119,7 +119,7 @@ Abre tu navegador y visita: `http://localhost:8000`
 ### Formulario de registro
 ![Registro](https://github.com/user-attachments/assets/c472c3a4-b900-4505-b56c-2511b12c2ffd)
 
-### Confirmación de creacion
+### Formulario de creacion
 ![Edición](https://github.com/user-attachments/assets/acbac221-024d-4da0-8e4b-dcb9155e1800)
 
 ### Formulario de edición
