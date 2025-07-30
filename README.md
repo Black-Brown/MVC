@@ -33,9 +33,6 @@ registro-estudiantes/
 │       ├── create.php        # Formulario de registro
 │       ├── edit.php          # Formulario de edición
 │       └── delete.php        # Confirmación de eliminación
-├── 📁 assets/
-│   └── 📁 css/
-│       └── style.css         # Estilos personalizados
 ├── index.php                 # Página principal
 ├── README.md                 # Documentación
 └── .gitignore               # Archivos ignorados por Git
