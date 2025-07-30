@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $model->createStudent($name, $matricula, $carrera, $email, $fecha_inscripcion);
 
-    header("Location: views/students/index.php");
+    header("Location: /views/students/index.php");
     exit;
 }
 ?>
