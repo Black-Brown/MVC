@@ -48,8 +48,8 @@ registro-estudiantes/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/registro-estudiantes.git
-cd registro-estudiantes
+git clone https://github.com/Black-Brown/MVC.git
+cd MVC
 ```
 
 ### 2. Configurar base de datos
